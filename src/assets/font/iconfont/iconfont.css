@@ -1,0 +1,67 @@
+@font-face {
+  font-family: "iconfont";
+  /* Project id 4649082 */
+  src: url('//at.alicdn.com/t/c/font_4649082_r39xvyu08aj.woff2?t=1723368271869') format('woff2'),
+    url('//at.alicdn.com/t/c/font_4649082_r39xvyu08aj.woff?t=1723368271869') format('woff'),
+    url('//at.alicdn.com/t/c/font_4649082_r39xvyu08aj.ttf?t=1723368271869') format('truetype');
+}
+
+.iconfont {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-guanbi:before {
+  content: "\e7be";
+}
+
+.icon-shezhi:before {
+  content: "\e66f";
+}
+
+.icon-shezhi1:before {
+  content: "\e659";
+}
+
+.icon-sjjn:before {
+  content: "\e600";
+}
+
+.icon-wangpan:before {
+  content: "\e633";
+}
+
+.icon-ego-blog:before {
+  content: "\e632";
+}
+
+.icon-compass:before {
+  content: "\e77d";
+}
+
+.icon-link:before {
+  content: "\e7e2";
+}
+
+.icon-fire-fill:before {
+  content: "\e866";
+}
+
+.icon-headset:before {
+  content: "\e80b";
+}
+
+.icon-compass1:before {
+  content: "\e86b";
+}
+
+.icon-book:before {
+  content: "\e649";
+}
+
+.icon-codeforces:before {
+  content: "\eb65";
+}
